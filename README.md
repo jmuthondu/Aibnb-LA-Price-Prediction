@@ -8,7 +8,7 @@ This project aims to use machine learning and deep learning to predict the base 
 Additional context: I previously worked for a year and a half at an Airbnb property management company, as head of the team responsible for pricing, revenue and analysis. Decisions made during the course of this project are therefore informed by domain expertise in this industry.
 
 # The Dataset
-The dataset used for this project comes from [insideairbnb.com]
+The dataset used for this project comes from [insideairbnb.com](http://insideairbnb.com/get-the-data.html)
 
 Copyright: Joyce Muthondu
           
