@@ -10,5 +10,8 @@ Additional context: I previously worked for a year and a half at an Airbnb prope
 # The Dataset
 The dataset used for this project comes from [insideairbnb.com](http://insideairbnb.com/get-the-data.html)
 
+# Limitations
+The biggest problem is that the data is quite messy and which is a huge disadvantage in that it only includes the advertised price(which is sometimes called the 'sticker' price).The sticker price is the overall nightly price that is advertised to potential guests, rather than the actual average amount paid per night by previous guests. The advertised prices can be set to any arbitrary amount by the host, and hosts that are less experienced with Airbnb will often set these to very low. 
+
 Copyright: Joyce Muthondu
           
